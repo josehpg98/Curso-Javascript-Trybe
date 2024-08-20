@@ -28,5 +28,5 @@ Aplicação: Criar funções para realizar tarefas específicas e reutilizá-las
 
 # Certificado de coonclusão:    
 
-certificado.png
+![Certificado](certificado.png)
 
